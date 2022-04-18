@@ -63,4 +63,4 @@ public class JvmComprehension {
 
 ```
 
-![Photo](img/Memory.jpg)
+![Photo](img/Memory.png)
